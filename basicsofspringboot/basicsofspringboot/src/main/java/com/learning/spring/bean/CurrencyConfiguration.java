@@ -1,4 +1,4 @@
-package com.learning.basicsofspringboot.service;
+package com.learning.spring.bean;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

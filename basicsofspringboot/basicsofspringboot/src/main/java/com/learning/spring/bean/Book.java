@@ -1,4 +1,4 @@
-package com.learning.basicsofspringboot.service;
+package com.learning.spring.bean;
 
 public class Book {
     public Book(int id, String author, String bookname) {

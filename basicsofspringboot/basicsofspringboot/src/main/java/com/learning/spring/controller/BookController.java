@@ -1,6 +1,6 @@
-package com.learning.basicsofspringboot.controller;
+package com.learning.spring.controller;
 
-import com.learning.basicsofspringboot.service.Book;
+import com.learning.spring.bean.Book;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
